@@ -5,7 +5,7 @@ This notebook is an implementation of the paper titled  "Federated Dropout – A
 
 The paper presents a novel methodology aimed at addressing the challenges of Federated Learning (FL) on devices with limited computational resources. The authors propose a technique called Federated Dropout (FedDrop), which builds upon the traditional dropout method used in deep neural networks (DNNs) to enhance performance while reducing both communication and computation overhead.
 
-##Overview of the Methodology
+## Overview of the Methodology
 
 ### Problem Statement
 Federated Learning involves training models across multiple devices while keeping data localized to enhance privacy. However, two main bottlenecks hinder its effectiveness:
